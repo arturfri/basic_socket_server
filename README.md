@@ -1,8 +1,6 @@
 # Projeto de Redes de Computadores
 
--- Artur Felipe Ribeiro 759459
--- Julia Mattias 759513
--- Lucas Ribeiro Pereira 771033 
+-- Artur Felipe Ribeiro 
 
 ## Objetivo
 Implementar um servidor Socket e criar uma aplicação cliente para consumir esse servidor
